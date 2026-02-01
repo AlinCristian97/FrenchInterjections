@@ -9,6 +9,7 @@ public class Constants
         public const string Warnings = "Warnings";
         public const string Celebratory = "Celebratory";
         public const string Action = "Action";
+        public const string Vuglar = "Vuglar";
     }
 
     public static class Interjections
@@ -33,5 +34,11 @@ public class Constants
         // Action / Start
         public const string CestParti = "C’est parti !";
         public const string AllonsY = "Allons-y !";
+        public const string VasY = "Vas-y !";
+        public const string AllezY = "Allez-y !";
+        public const string Voila = "Voilà !";
+
+        // Vuglar
+        public const string Putain = "Putain !";
     }
 }
