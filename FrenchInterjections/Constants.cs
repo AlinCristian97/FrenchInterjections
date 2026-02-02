@@ -9,7 +9,9 @@ public class Constants
         public const string Warnings = "Warnings";
         public const string Celebratory = "Celebratory";
         public const string Action = "Action";
-        public const string Vuglar = "Vuglar";
+        public const string Vuglar = "Vulgar";
+        public const string Surprise = "Surprise";
+        public const string Emphasis = "Emphasis";
     }
 
     public static class Interjections
@@ -40,5 +42,13 @@ public class Constants
 
         // Vuglar
         public const string Putain = "Putain !";
+
+        // Surprise
+        public const string CaAlors = "Ça alors !";
+        public const string OhLaLa = "Oh là là !";
+        public const string DisDonc = "Dis donc !";
+
+        // Emphasis
+        public const string AuMoins = "Au moins !";
     }
 }
