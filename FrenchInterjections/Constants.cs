@@ -42,6 +42,7 @@ public class Constants
 
         // Vuglar
         public const string Putain = "Putain !";
+        public const string Mince = "Mince !";
 
         // Surprise
         public const string CaAlors = "Ça alors !";
