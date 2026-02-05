@@ -12,6 +12,8 @@ public class Constants
         public const string VuglarAnnoyed = "Vulgar";
         public const string Surprise = "Surprise";
         public const string Emphasis = "Emphasis";
+        public const string SadnessDisappointment = "SadnessDisappointment";
+        public const string Gratitude = "Gratitude";
     }
 
     public static class Interjections
@@ -54,5 +56,11 @@ public class Constants
 
         // Emphasis
         public const string AuMoins = "Au moins !";
+
+        // SadnessDisappointment
+        public const string Helas = "hélas";
+
+        // Gratitude
+        public const string Merci = "Merci !";
     }
 }
