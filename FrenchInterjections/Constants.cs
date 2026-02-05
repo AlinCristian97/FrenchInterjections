@@ -8,8 +8,8 @@ public class Constants
         public const string Encouragement = "Encouragement";
         public const string Warnings = "Warnings";
         public const string Celebratory = "Celebratory";
-        public const string Action = "Action";
-        public const string Vuglar = "Vulgar";
+        public const string ActionStart = "Action";
+        public const string VuglarAnnoyed = "Vulgar";
         public const string Surprise = "Surprise";
         public const string Emphasis = "Emphasis";
     }
@@ -33,16 +33,18 @@ public class Constants
         public const string Bienvenue = "Bienvenue !";
         public const string Felicitations = "Félicitations !";
 
-        // Action / Start
+        // ActionStart
         public const string CestParti = "C’est parti !";
         public const string AllonsY = "Allons-y !";
         public const string VasY = "Vas-y !";
         public const string AllezY = "Allez-y !";
         public const string Voila = "Voilà !";
 
-        // Vuglar
+        // VuglarAnnoyed
         public const string Putain = "Putain !";
         public const string Mince = "Mince !";
+        public const string Ouste = "Ouste !";
+        public const string Degage = "Dégage !";
 
         // Surprise
         public const string CaAlors = "Ça alors !";
