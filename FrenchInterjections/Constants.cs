@@ -45,6 +45,7 @@ public class Constants
         public const string Mince = "Mince !";
         public const string Ouste = "Ouste !";
         public const string Degage = "Dégage !";
+        public const string DuBalai = "Du balai !";
 
         // Surprise
         public const string CaAlors = "Ça alors !";
