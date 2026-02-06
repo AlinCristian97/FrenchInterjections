@@ -41,6 +41,7 @@ public class Constants
         public const string VasY = "Vas-y !";
         public const string AllezY = "Allez-y !";
         public const string Voila = "Voilà !";
+        public const string Chut = "Chut !";
 
         // VuglarAnnoyed
         public const string Putain = "Putain !";
