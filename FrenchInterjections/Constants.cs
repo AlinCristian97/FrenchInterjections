@@ -22,6 +22,7 @@ public class Constants
         public const string Salut = "Salut !";
         public const string Bonjour = "Bonjour !";
         public const string Bonsoir = "Bonsoir !";
+        public const string Adieu = "adieu";
 
         // Encouragement
         public const string Bravo = "Bravo !";
